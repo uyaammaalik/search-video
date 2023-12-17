@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 4. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/uyaammaalik/search-video.git
    cd search-image
 
    ```
