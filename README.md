@@ -31,6 +31,7 @@ Before you begin, ensure you have the following installed:
 
    ```env
    REACT_APP_API_KEY=your_api_key_here
+   REACT_APP_API_URL=https://www.googleapis.com/youtube/v3
 
    ```
 

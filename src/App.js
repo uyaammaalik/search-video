@@ -30,7 +30,16 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="ui container">
+      <div style={{ marginTop: "20px" }} className="ui container">
+        <h2
+          style={{
+            fontFamily: "sans-serif",
+            fontSize: "large",
+            fontStyle: "bold",
+          }}
+        >
+          Search Videos
+        </h2>
         <SearchBar onVideoSearch={this.onVideoSearch} />
         <div className="ui grid">
           <div className="ten wide column">
