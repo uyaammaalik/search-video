@@ -24,22 +24,21 @@ Before you begin, ensure you have the following installed:
 1. Get Youtube API
    [Get your Youtube Data V3 API] (https://console.cloud.google.com)
 
-2. **Create a `.env` file:**
-   In the root of your project, create a file named `.env`.
-
-3. **Add the following variables to your `.env` file:**
-
-   ```env
-   REACT_APP_API_KEY=your_api_key_here
-   REACT_APP_API_URL=https://www.googleapis.com/youtube/v3
-
-   ```
-
-4. Clone the repository:
+2. Clone the repository:
 
    ```bash
    git clone https://github.com/uyaammaalik/search-video.git
    cd search-image
+
+   ```
+3. **Create a `.env` file:**
+   In the root of your project, create a file named `.env`.
+
+4. **Add the following variables to your `.env` file:**
+
+   ```env
+   REACT_APP_API_KEY=your_api_key_here
+   REACT_APP_API_URL=https://www.googleapis.com/youtube/v3
 
    ```
 
