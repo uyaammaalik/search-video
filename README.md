@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/uyaammaalik/search-video.git
-   cd search-image
+   cd search-video
 
    ```
 3. **Create a `.env` file:**
